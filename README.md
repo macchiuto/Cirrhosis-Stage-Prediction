@@ -42,6 +42,10 @@ Dataset contains 418 patient records with 18 columns. After removing irrelevant 
 - Feature importance analysis identifies **Ascites**, **Hepatomegaly**, and **Prothrombin** as the top predictors for cirrhosis stage.
 - While the pipeline provides a clear workflow, the current predictions **should not be considered fully reliable for clinical decision-making**, and there is room for improvement with additional data, better handling of class imbalance, and alternative modeling strategies.
 
+---
+
+## Presentation Video
+[Cirhosis Prediction Analysis – Video Presentation](https://your-onedrive-link-here)
 
 ---
 
